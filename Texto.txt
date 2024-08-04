@@ -1,4 +1,4 @@
 3º passo: 
 Copia o excerto do texto para aqui e apaga esta informação.
 * bloco de notas do teu computador.
-Lembra-te que este ficheiro do bloco de notas (Texto.txt) tem de ser guardado na mesma pasta que o ficheiro do Processing (FerramentaAleatoria.pde),
+Lembra-te que este ficheiro do bloco de notas (Texto.txt) tem de ser guardado na mesma pasta que o ficheiro do Processing (FerramentaAleatoria.pde).
