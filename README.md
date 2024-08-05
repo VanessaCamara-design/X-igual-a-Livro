@@ -35,13 +35,11 @@ Acede ao link no Browser do teu computador.
 
 Clica no botão verde "Code" e, em seguida, em "Download ZIP” para iniciares a transferência da pasta para o teu computador.
 
-Extrai o conteúdo da pasta para teres acesso aos 3 ficheiros:
-
-                    “README.md” — o ficheiro que contém informações sobre o passo a passo das instruções.
-
-                    “FerramentaAleatoria.pde” — o ficheiro do Processing com o código.
+Extrai o conteúdo da pasta para teres acesso aos 2 ficheiros:
 
                     “Texto.txt” — o ficheiro onde vais colocar o teu texto, editá-lo e salvar o documento.
+
+                     “FerramentaAleatoria.pde” — o ficheiro do Processing com o código.
 
 
 2º passo: Instalar o Processing no teu computador
