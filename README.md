@@ -18,7 +18,7 @@ Vais precisar de:
 
 . Computador com acesso a Internet
 
-. Instalar o Processing - “Software flexível com uma linguagem para aprender a programar. Desde 2001, o Processing tem promovido a literacia de software no âmbito das artes visuais e a literacia visual no âmbito da tecnologia. Há dezenas de milhares de estudantes, artistas, designers, investigadores e amadores que usam o Processing para aprender e criar protótipos.” 2024
+. Instalar o Processing - “Software flexível com uma linguagem para aprender a programar. Desde 2001, o Processing tem promovido a literacia de software no âmbito das artes visuais e a literacia visual no âmbito da tecnologia. Há dezenas de milhares de estudantes, artistas, designers, investigadores e amadores que usam o Processing para aprender e criar protótipos" (Processing, 2024).
  
 . Um amigo que saiba programação, caso isto corra mal.
 
