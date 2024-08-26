@@ -30,7 +30,7 @@ Este texto pode ser autoral ou não, pode ter algum significado ou não. Pode se
 Instruções
 Para selecionar duas palavras aleatórias de um texto, com o código do Processing.
 
-1º passo: github.com/VanessaCamara-design/x-Livro
+1º passo: (github.com/VanessaCamara-design/x-Livro)
 Acede ao link no Browser do teu computador.
 Clica no botão verde "Code".
 Clica no botão "Download ZIP” para iniciares a transferência para o teu computador.
@@ -39,7 +39,7 @@ Clica no botão "Download ZIP” para iniciares a transferência para o teu comp
 “FerramentaAleatoria.pde” — o ficheiro do Processing com o código para gerar duas palavras aleatórias.
 
 2º passo: Instala o Processing no teu computador.
-Para instalar o Processing, acede o site oficial: processing.org/download. 
+Para instalar o Processing, acede o site oficial: (processing.org/download). 
 Escolhe a versão compatível com o teu sistema operacional (Mac ou Windows) e segue as instruções de instalação.
 
 3º passo: Seleciona um excerto de um texto.
