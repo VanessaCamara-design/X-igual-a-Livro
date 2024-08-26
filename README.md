@@ -53,8 +53,8 @@ Para selecionar duas palavras aleatórias de um texto, com o código do Processi
 
  > [!WARNING]
 > Para que o código funcione corretamente, certifica-te que:
-1. **Não** alteras o nome dos ficheiros.
-2. Certifica-te que o texto do bloco de notas “Texto.txt” **não** tem espaçamentos em branco entre as linhas, frases.
-3. O ficheiro do bloco de notas “Texto.txt” e o ficheiro do Processing “FerramentaAleatoria.pde” estão localizados e guardados na mesma pasta no teu computador.
+> 1. **Não** alteras o nome dos ficheiros.
+> 2. Certifica-te que o texto do bloco de notas “Texto.txt” **não** tem espaçamentos em branco entre as linhas, frases.
+> 3. O ficheiro do bloco de notas “Texto.txt” e o ficheiro do Processing “FerramentaAleatoria.pde” estão localizados e guardados na mesma pasta no teu computador.
 
 
