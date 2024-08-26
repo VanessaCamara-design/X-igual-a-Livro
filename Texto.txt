@@ -1,0 +1,17 @@
+4º passo—
+- Insere o teu texto aqui.
+- Edita o texto conforme necessário:
+1.Certifica-te que o texto não tem espaçamentos em branco entre as linhas, frases (como neste exemplo).
+2.Lembra-te que a pontuação também pode ser considerada como um elemento a ser selecionado, portanto, elimina caso não desejes que esta seja incluída na seleção.
+- Salva o ficheiro após realizares as devidas alterações.
+**Não te esqueças de eliminar este texto e colocar o teu.**
+
+
+
+
+
+
+
+
+
+
