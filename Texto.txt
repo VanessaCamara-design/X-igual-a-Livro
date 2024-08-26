@@ -1,2 +1,0 @@
-4º passo:
-Neste ficheiro apaga esta informação e insere o teu texto, removendo qualquer formatação como espaçamentos em branco ou quebras de linha. Certifica-te de que o texto está em um único bloco. Em relação ao texto podes editá-lo conforme necessário. Lembra-te que a pontuação também pode ser considerada como um elemento a ser selecionado, portanto, elimina-a caso não desejes que esta seja incluída na seleção. Após realizar as devidas alterações, salva o ficheiro.
