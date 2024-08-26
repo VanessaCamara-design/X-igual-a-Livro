@@ -52,14 +52,10 @@ Edita o texto conforme necessário.
 Salva o ficheiro após realizares as devidas alterações.
 
 
-
-Nota — 
-Para que o código funcione corretamente, certifica-te que:
+ > [!WARNING]
+> Para que o código funcione corretamente, certifica-te que:
 Não alteras o nome dos ficheiros.
 O ficheiro do bloco de notas “Texto.txt” e o ficheiro do Processing “FerramentaAleatoria.pde” estão localizados e guardados na mesma pasta no teu computador.
-
- > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
 
 
 
