@@ -30,17 +30,17 @@ Este texto pode ser autoral ou não, pode ter algum significado ou não. Pode se
 Instruções
 Para selecionar duas palavras aleatórias de um texto, com o código do Processing.
 
-1º passo: (github.com/VanessaCamara-design/x-Livro)
-Acede ao link no Browser do teu computador.
-Clica no botão verde "Code".
-Clica no botão "Download ZIP” para iniciares a transferência para o teu computador.
- Extrai o conteúdo do ficheiro ZIP para uma pasta:
-“Texto.txt” — o ficheiro onde vais colocar o teu texto, editá-lo e salvar o documento.
-“FerramentaAleatoria.pde” — o ficheiro do Processing com o código para gerar duas palavras aleatórias.
+1º passo: (https://github.com/VanessaCamara-design/X-igual-a-Livro/)
++ Acede ao link no Browser do teu computador.
++ Clica no botão verde "Code".
++ Clica no botão "Download ZIP” para iniciares a transferência para o teu computador.
++  Extrai o conteúdo do ficheiro ZIP para uma pasta:
+     1. “Texto.txt” — o ficheiro onde vais colocar o teu texto, editá-lo e salvar o documento.
+     2. “FerramentaAleatoria.pde” — o ficheiro do Processing com o código para gerar duas palavras aleatórias.
 
-2º passo: Instala o Processing no teu computador.
-Para instalar o Processing, acede o site oficial: (processing.org/download). 
-Escolhe a versão compatível com o teu sistema operacional (Mac ou Windows) e segue as instruções de instalação.
+2º passo: (https://processing.org/download)
++ Instala o Processing no teu computador.
++ Escolhe a versão compatível com o teu sistema operacional (Mac ou Windows) e segue as instruções de instalação.
 
 3º passo: Seleciona um excerto de um texto.
 
@@ -54,8 +54,8 @@ Salva o ficheiro após realizares as devidas alterações.
 
  > [!WARNING]
 > Para que o código funcione corretamente, certifica-te que:
-Não alteras o nome dos ficheiros.
-O ficheiro do bloco de notas “Texto.txt” e o ficheiro do Processing “FerramentaAleatoria.pde” estão localizados e guardados na mesma pasta no teu computador.
+1. Não alteras o nome dos ficheiros.
+2. O ficheiro do bloco de notas “Texto.txt” e o ficheiro do Processing “FerramentaAleatoria.pde” estão localizados e guardados na mesma pasta no teu computador.
 
 
 
